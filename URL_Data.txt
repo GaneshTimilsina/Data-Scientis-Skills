@@ -1,0 +1,220 @@
+Job Title: Data Scientist
+Company: Open Analytics
+Job Type: This is a Full time job
+Location: Sydney NSW
+Salary: $100,000 per year
+Classification: (Science & Technology)
+Key Information: []
+______________________________
+
+
+Job Title: Senior Data Scientist, Accountability
+Company: Department of Health
+Job Type: This is a Full time job
+Location: Melbourne VIC
+Salary: $109,730 - $132,764 plus superannuation
+Classification: (Science & Technology)
+Key Information: ['Ongoing, full-time role.', 'Perform meaningful and impactful work.', 'Hybrid and flexible work arrangements available.']
+______________________________
+
+
+Job Title: Data Scientist
+Company: Department of Transport
+Job Type: This is a Full time job
+Location: Perth WA
+Salary: Level 5, 96,307 - 105,254 - pa + Super PSCAA 2022
+Classification: (Science & Technology)
+Key Information: ['Access to flexible working arrangements', 'Bright, modern facility close to transport links', 'A competitive salary, and 11.5% employer contributed superannuation']
+______________________________
+
+
+Job Title: Senior Data Scientist - Customer
+Company: EnergyAustralia Services Pty Ltd
+Job Type: This is a Full time job
+Location: Melbourne VIC
+Salary: Great salary & Annual Performance Bonus
+Classification: (Information & Communication Technology)
+Key Information: ['Full time Ongoing Position', 'Hybrid working model - WFH', 'Come work with an array of data on modern Tech platforms']
+______________________________
+
+
+Job Title: Computational Data Scientist
+Company: Melanoma Institute Australia
+Job Type: This is a Contract/Temp job
+Location: Camperdown
+Salary: Base + Super + Salary Packaging
+Classification: (Healthcare & Medical)
+Key Information: ['Work for a not-for-profit organisation dedicated to melanoma research', 'Base + Super + Salary Packaging']
+______________________________
+
+
+Job Title: Data Scientist
+Company: Foxtel Group
+Job Type: This is a Full time job
+Location: Artarmon
+Salary: Base salary + Foxtel Benefits
+Classification: (Science & Technology)
+Key Information: ['Close to public transport, with a shuttle service to/from train station', 'Hybrid ways of working, mix of campus and home based', 'Join a leading sporting and entertainment company']
+______________________________
+
+
+Job Title: Data Scientist
+Company: KBR - Kellogg Brown & Root Pty Ltd
+Job Type: This is a Full time job
+Location: Adelaide SA
+Salary: Not specified
+Classification: (Information & Communication Technology)
+Key Information: []
+______________________________
+
+
+Job Title: Data Scientist - Classifications Model Specialist
+Company: Shift Financial Pty Ltd
+Job Type: This is a Full time job
+Location: North Sydney
+Salary: Not specified
+Classification: (Information & Communication Technology)
+Key Information: []
+______________________________
+
+
+Job Title: Data Scientist
+Company: TheDriveGroup
+Job Type: This is a Contract/Temp job
+Location: Brisbane QLD
+Salary: Not specified
+Classification: (Information & Communication Technology)
+Key Information: []
+______________________________
+
+
+Job Title: Data Scientist
+Company: Talenza
+Job Type: This is a Full time job
+Location: Brisbane QLD
+Salary: $150k - $180000.00 p.a. + package incl. super + WF
+Classification: (Information & Communication Technology)
+Key Information: []
+______________________________
+
+
+Job Title: Principal Data Scientist
+Company: Department of Energy and Climate
+Job Type: This is a Contract/Temp job
+Location: Brisbane QLD
+Salary: $129,089 - $138,273 per annum
+Classification: (Information & Communication Technology)
+Key Information: ['Fixed term temporary, full-time role', '$129,089 - $138,273 per annum', 'Flexible work arrangements, a competitive salary and generous leave entitlements']
+______________________________
+
+
+Job Title: Senior Data Scientist
+Company: Jacobs Group (Australia) Pty Ltd
+Job Type: This is a Full time job
+Location: Perth WA
+Salary: Not specified
+Classification: (Information & Communication Technology)
+Key Information: []
+______________________________
+
+
+Job Title: Lead Data Scientist
+Company: Opus Recruitment Solutions
+Job Type: This is a Full time job
+Location: Melbourne VIC
+Salary: AUD 160000 - 190000 per annum
+Classification: (Science & Technology)
+Key Information: ['Research and Development', 'Technical Leadership', 'Melbourne - Hybrid']
+______________________________
+
+
+Job Title: Senior Data Scientist
+Company: BLACKROC
+Job Type: This is a Full time job
+Location: Brisbane QLD
+Salary: Up to $160k + Super
+Classification: (Information & Communication Technology)
+Key Information: ['Join a newly formed AI team and make your mark in the business', 'Combine your technical skills and commercial nous to drive success', 'Python | PyTorch | TensorFlow | Scikit-Learn']
+______________________________
+
+
+Job Title: Senior Data Scientist
+Company: AGL
+Job Type: This is a Full time job
+Location: Docklands
+Salary: $120k - $150k p.a.
+Classification: (Information & Communication Technology)
+Key Information: []
+______________________________
+
+
+Job Title: Data Scientist, Financial Crime
+Company: Cuscal Limited (SR)
+Job Type: This is a Full time job
+Location: Sydney NSW
+Salary: Not specified
+Classification: (Information & Communication Technology)
+Key Information: []
+______________________________
+
+
+Job Title: Junior Data Scientist
+Company: sportsbet.com.au
+Job Type: This is a Full time job
+Location: Melbourne VIC
+Salary: Not specified
+Classification: (Science & Technology)
+Key Information: []
+______________________________
+
+
+Job Title: Data Scientist x4
+Company: Randstad Digital
+Job Type: This is a Contract/Temp job
+Location: Brisbane QLD
+Salary: $750 - $1050 p.d. + Super
+Classification: (Information & Communication Technology)
+Key Information: ['Data Science | Data Scientist | Machine Learning | Advanced Analytics', 'Python | SQL | R | Modelling | Simulation Model | Decision Engine', 'Data Mining | Heavy Asset |']
+______________________________
+
+
+Job Title: Data Scientist - Revenue Platform
+Company: Canva
+Job Type: This is a Full time job
+Location: Sydney NSW
+Salary: Not specified
+Classification: (Information & Communication Technology)
+Key Information: []
+______________________________
+
+
+Job Title: Data Scientist
+Company: Konnexus
+Job Type: This is a Contract/Temp job
+Location: Melbourne VIC
+Salary: Not specified
+Classification: (Science & Technology)
+Key Information: ['Contract Role - 6 Month Daily Rate', 'Project Based Position - Building Models to Solve Business Problems', 'Leading & Well Known Australian Organisation']
+______________________________
+
+
+Job Title: Data Scientist
+Company: Cotiviti Australia
+Job Type: This is a Full time job
+Location: Sydney NSW
+Salary: Not specified
+Classification: (Science & Technology)
+Key Information: []
+______________________________
+
+
+Job Title: Staff Data Scientist - Canva Growth
+Company: Canva
+Job Type: This is a Full time job
+Location: Sydney NSW
+Salary: Not specified
+Classification: (Information & Communication Technology)
+Key Information: []
+______________________________
+
+
